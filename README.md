@@ -6,7 +6,7 @@ A simple repository to house CCC solutions in both **C++ and Python** for myself
 
 ### What is the CCC?
 
-The Canadian Computing Competition (CCC) is a programming competition that runs annually and challenges high-school students to engage in programming problems. The CCC consists of two levels: **Junior** and **Senior**, with the Senior level consisting of IOI level problems. Each level consists of 5 problems and each problem increases in difficulty from the previous level.
+The [Canadian Computing Competition] (CCC) is a programming competition that runs annually and challenges high-school students to engage in programming problems. The CCC consists of two levels: **Junior** and **Senior**, with the Senior level consisting of IOI level problems. Each level consists of 5 problems and each problem increases in difficulty from the previous level.
 
 ### How this repository is organized
 
@@ -18,3 +18,4 @@ The Canadian Computing Competition (CCC) is a programming competition that runs 
 Contributors are always welcome! If you'd like to add more solutions to this repository just **clone** this repo and submit a [pull request]. Thanks for being interested in CCC Solutions!
 
 [pull request]: https://github.com/harshithl1777/CCC-Solutions/pulls
+[Canadian Computing Competition]: https://www.cemc.uwaterloo.ca/contests/computing.html
