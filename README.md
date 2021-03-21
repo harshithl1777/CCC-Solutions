@@ -10,5 +10,5 @@ The Canadian Computing Competition (CCC) is a programming competition that runs 
 
 ### How this repository is organized
 
-..* Junior levels
-.....* Each problem is finished usually in Python since most don't require more time-intensive algorithms like **recursion** and therefore, don't require C++ to reduce time
+⋅⋅* Junior levels
+    ⋅⋅* Each problem is finished usually in Python since most don't require more time-intensive algorithms like **recursion** and therefore, don't require C++ to reduce time
